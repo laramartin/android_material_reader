@@ -6,7 +6,7 @@
 
     <!-- toolbar -->
     <dimen name="icon_toolbar_size">56dp</dimen>
-    <dimen name="icon_toolbar_elevation">4dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
     <dimen name="appbar_height">56dp</dimen>
 
     <!-- Floating action button-->
