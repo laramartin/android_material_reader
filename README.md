@@ -7,7 +7,7 @@ XYZ Reader app Developed from the starter code for Material Design project in Ud
 - Follows <a href="https://material.io/guidelines/" target="_blank">Material Design guidelines</a>
 
 ## Screenshots of final app
-<img src="https://raw.githubusercontent.com/laramartin/android_material_reader/master/XYZReader/art/device-2017-06-25-160505.png" width="250"/> <img src="https://raw.githubusercontent.com/laramartin/android_material_reader/master/XYZReader/art/device-2017-06-25-160538.png" width="250"/> <img src="https://raw.githubusercontent.com/laramartin/android_material_reader/master/XYZReader/art/device-2017-06-25-160604.png" width="250"/>
+<img src="https://raw.githubusercontent.com/laramartin/android_material_reader/master/XYZReader/art/device-2017-06-26-222347.png" width="250"/> <img src="https://raw.githubusercontent.com/laramartin/android_material_reader/master/XYZReader/art/device-2017-06-26-222417.png" width="250"/> <img src="https://raw.githubusercontent.com/laramartin/android_material_reader/master/XYZReader/art/device-2017-06-26-222511.png" width="250"/>
 
 ## Screenshots of starter code app
 <img src="https://raw.githubusercontent.com/laramartin/android_material_reader/master/XYZReader/art/starter_code.png" width="250"/> <img src="https://raw.githubusercontent.com/laramartin/android_material_reader/master/XYZReader/art/starter_code2.png" width="250"/>
